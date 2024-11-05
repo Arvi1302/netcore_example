@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
   flutter_modular: ^6.3.4
   smartech_base: ^3.5.1
-  smartech_nudges: ^1.1.3
+  smartech_nudges: ^1.1.4
   smartech_push: ^3.5.2
 
 dev_dependencies:
